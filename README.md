@@ -2,7 +2,7 @@
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
 
-![My try](./design/my-try.jpg)
+![My try](./design/my-try.png)
 
 Visit my clone 👆 [here](https://opeoluwa-ogunlaja.github.io/frontendmentor_intro-section-with-dropdown-navigation) 😁
 
