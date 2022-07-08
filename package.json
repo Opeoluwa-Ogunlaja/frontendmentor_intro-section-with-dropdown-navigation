@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.071a38fd.js",
+  "source": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/Opeoluwa-Ogunlaja/frontendmentor_intro-section-with-dropdown-navigation/issues"
   },
-  "homepage": "https://github.com/Opeoluwa-Ogunlaja/frontendmentor_intro-section-with-dropdown-navigation#readme"
+  "homepage": "https://github.com/Opeoluwa-Ogunlaja/frontendmentor_intro-section-with-dropdown-navigation"
 }
