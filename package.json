@@ -1,0 +1,19 @@
+{
+  "name": "frontendmentor_intro-section-with-dropdown-navigation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.071a38fd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opeoluwa-Ogunlaja/frontendmentor_intro-section-with-dropdown-navigation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Opeoluwa-Ogunlaja/frontendmentor_intro-section-with-dropdown-navigation/issues"
+  },
+  "homepage": "https://github.com/Opeoluwa-Ogunlaja/frontendmentor_intro-section-with-dropdown-navigation#readme"
+}
